@@ -1,0 +1,41 @@
+command : /help
+
+# Output all availables commands 
+
+command : /register
+
+# Registering yourself
+
+command : /euro OR /schedule
+
+# Display welcome message and matches schedule
+
+command : /leaderboard
+
+# See your rank against others
+
+command : /predict
+
+# Submit match prediction, example: /predict France 2-1
+
+command : /result
+
+-------------------------------------------------------
+Resources:
+
+
+Official documentation for telegram API:
+
+https://github.com/python-telegram-bot/python-telegram-bot/blob/master/README.rst
+
+Introduction to telegram-Bot making:
+
+https://github.com/python-telegram-bot/python-telegram-bot/wiki/Extensions---Your-first-Bot
+
+Other resources:
+
+https://core.telegram.org/bots/tutorial#introduction
+
+Registering schema: 
+
+file:///C:/Users/kali/Desktop/telegram%20bot/part1.pdf
